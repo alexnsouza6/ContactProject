@@ -1,0 +1,9 @@
+.organize {
+	display: flex;
+	flex-direction: column;
+}
+
+.select{
+	align-self: center;
+	margin-left: 50px;
+}
